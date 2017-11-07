@@ -1,4 +1,4 @@
-# DC Metro Map - test change
+# DC Metro Map
 
 ## What is this?
 A simple example of a node.js + mapbox web application configured to run on Red Hat's OpenShift.
